@@ -1,0 +1,3 @@
+class CustomInput {
+  constructor() {}
+}
